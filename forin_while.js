@@ -8,7 +8,7 @@ const person0 = {
 for (var x in person0)
     {
         console.log("person details"+x+":"+person0[x]); //when prgrm runs in browser, console is used to print output.
-
+        document.write( x + ":" + person0[x]+"</br>");
     }
 // while loop
 var count = 0;
