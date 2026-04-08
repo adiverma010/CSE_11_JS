@@ -5,6 +5,7 @@
 // 4. mousedown : when the mouse button is pressed down (onmousedown)
 // 5. mouseup : when the mouse button is released (onmouseup)
 // 6. mousemove : when the mouse pointer moves within an element (onmousemove)
+//7. dblclick : when the mouse button is double-clicked (ondblclick)
 
 function onClick() {
 console.log("Mouse Clicked");
